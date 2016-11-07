@@ -56,11 +56,14 @@ enrollments = read_csv(enrollments_filename)
 project_submissions = read_csv(submissions_filename)
 daily_engagement = read_csv(enrollments_filename)
 
+#Daily enrollment
 1640
 1302
 
+#Project Submissions
 136240
 1237
 
+#Daily Engagement
 3642
 743
